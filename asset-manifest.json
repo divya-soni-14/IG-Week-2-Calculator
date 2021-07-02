@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/divya-soni-14/IG-Week-2-Calculator/static/css/main.e69303d3.chunk.css",
+    "main.js": "/divya-soni-14/IG-Week-2-Calculator/static/js/main.ab63f336.chunk.js",
+    "main.js.map": "/divya-soni-14/IG-Week-2-Calculator/static/js/main.ab63f336.chunk.js.map",
+    "runtime-main.js": "/divya-soni-14/IG-Week-2-Calculator/static/js/runtime-main.08e54fdb.js",
+    "runtime-main.js.map": "/divya-soni-14/IG-Week-2-Calculator/static/js/runtime-main.08e54fdb.js.map",
+    "static/js/2.9a12711f.chunk.js": "/divya-soni-14/IG-Week-2-Calculator/static/js/2.9a12711f.chunk.js",
+    "static/js/2.9a12711f.chunk.js.map": "/divya-soni-14/IG-Week-2-Calculator/static/js/2.9a12711f.chunk.js.map",
+    "index.html": "/divya-soni-14/IG-Week-2-Calculator/index.html",
+    "static/css/main.e69303d3.chunk.css.map": "/divya-soni-14/IG-Week-2-Calculator/static/css/main.e69303d3.chunk.css.map",
+    "static/js/2.9a12711f.chunk.js.LICENSE.txt": "/divya-soni-14/IG-Week-2-Calculator/static/js/2.9a12711f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08e54fdb.js",
+    "static/js/2.9a12711f.chunk.js",
+    "static/css/main.e69303d3.chunk.css",
+    "static/js/main.ab63f336.chunk.js"
+  ]
+}
