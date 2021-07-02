@@ -7,9 +7,12 @@ const App = () => {
 
   const handleClick = (e) => {
     if (x === 1) {
-      setResult("");
+      setResult(e.target.name);
       x = 0;
-    } else setResult(result.concat(e.target.name));
+      // console.log(x);
+    } else {
+      setResult(result.concat(e.target.name));
+    }
   };
   const clear = () => {
     setResult("");
@@ -26,13 +29,16 @@ const App = () => {
     if (x === 1) {
       setResult("");
       x = 0;
+      //console.log(x);
     } else {
       try {
         setResult(eval(result).toString());
-        x = 0;
+        x = 1;
+        //  console.log(x);
       } catch (err) {
         setResult("ERROR");
         x = 1;
+        // console.log(x);
       }
     }
   };
